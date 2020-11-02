@@ -1,3 +1,13 @@
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/keisto/React-Videos/production/public/screenshot.png" alt="App Screenshot">
+</p>
+
+# Video Search with Youtube API
+
+> Tony Keiser
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
